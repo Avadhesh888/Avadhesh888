@@ -28,7 +28,7 @@ Currently focusing on <b>Java, Data Structures, and Full Stack Development</b>.
 📂 Projects
 
 BuyCar
- BuyCar is a modern web-based application designed to help users browse, explore, and compare cars from various official automobile brands. The platform works like a digital car showroom, where users can easily find detailed information about different cars and make better purchasing decisions.
+ BuyCar is a modern web-based application designed to help users browse, explore, and purchase after sometime and compare cars from various official automobile brands. The platform works like a digital car showroom, where users can easily find detailed information about different cars and make better purchasing decisions.
 
 ---
 
